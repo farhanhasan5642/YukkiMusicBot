@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/notreallyshikhar/YukkiMusicBot",
+  "repository": "https://github.com/farhanhasan5642/YukkiMusicBot",
   "stack": "container",
   "env": {
     "API_ID": {
